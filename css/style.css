@@ -1,0 +1,64 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 2rem;
+  line-height: 3.25rem;
+  font-weight: 400;
+  color: #2f2f2f;
+  background-color: #fff;
+}
+
+.navbar, .navbar-default {
+  background: none;
+  border-bottom-color: transparent;
+  text-align: center;
+}
+
+#example-navbar.navbar-collapse {
+  background-color: #fff;
+}
+
+/*.navbar, .navbar-default button:navbar-toggle.collapsed:focus {
+  background-color: #fff;
+}*/
+
+.nav, .navbar-nav, .navbar-right {
+  margin-right: 0px;
+}
+
+#profile {
+  padding-top: 20%;
+  margin-bottom: 20%;
+  text-align: center;
+}
+
+#profile div {
+  border-bottom: 2px solid #e7ebee;
+}
+
+h1 h2 {
+  letter-spacing: .08rem;
+}
+
+#work {
+  color: #878787;
+  font-size: 2.2rem;
+}
+
+#about {
+  padding-top: 25%;
+  padding-bottom: 25%;
+}
+
+p {
+  line-height: 30px;
+  text-align: center;
+}
+
+a {
+  color: #777;
+  text-decoration: none;
+}
+
+a:hover, .current {
+  color: #31708f;
+}
