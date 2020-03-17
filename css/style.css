@@ -7,36 +7,8 @@ body {
   background-color: #fff;
 }
 
-.navbar, .navbar-default {
-  background: none;
-  border-bottom-color: transparent;
-  text-align: center;
-}
-
-#example-navbar.navbar-collapse {
-  background-color: #fff;
-}
-
-/*.navbar, .navbar-default button:navbar-toggle.collapsed:focus {
-  background-color: #fff;
-}*/
-
-.nav, .navbar-nav, .navbar-right {
-  margin-right: 0px;
-}
-
-#profile {
-  padding-top: 20%;
-  margin-bottom: 20%;
-  text-align: center;
-}
-
-#profile div {
-  border-bottom: 2px solid #e7ebee;
-}
-
-h1 h2 {
-  letter-spacing: .08rem;
+span {
+  padding-right: 5%;
 }
 
 #work {
@@ -45,13 +17,15 @@ h1 h2 {
 }
 
 #about {
-  padding-top: 25%;
-  padding-bottom: 25%;
+  padding-top: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
 
 p {
   line-height: 30px;
-  text-align: center;
+  text-align: left;
 }
 
 a {
